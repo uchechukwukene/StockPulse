@@ -3,13 +3,11 @@
 
 
 ## Introduction
-<p>
-  Welcome to Stock Price Prediction with Machine Learning! My website, powered by linear regression and a Django App, provides real-time data of stock prices on the home page. To predict stock prices, simply navigate to the prediction page, enter a valid ticker value and the number of days you want to predict, and click the predict button. This page displays the predicted stock price along with the details of the searched ticker. We also generate a unique QR Code for easy access to the predicted results. On the prediction page, you'll find two graphs: the left graph shows the real-time stock price of the searched ticker for the past day, while the right graph displays the predicted stock price for the specified number of days. Additionally, our Ticker Info page provides comprehensive details about all the valid tickers accepted by the application.
-</p>
+<p> Welcome to the Stock Price Prediction platform! This web application uses machine learning, specifically linear regression, to provide real-time data on stock prices. The home page displays the current stock prices, while the prediction page allows users to input a valid ticker symbol and select the number of days for forecasting. After submission, the predicted stock price and additional ticker details are shown. A unique QR code is generated for quick access to your prediction results. Two graphs are also provided: the left graph shows the real-time stock price of the selected ticker for the past day, and the right graph presents the forecast for the chosen time frame. Furthermore, a Ticker Info page offers detailed information about all valid tickers accepted by the app. </p>
 
 ## Aim
 <p>
-   Title: Stock Price Prediction with Machine Learning
+   Title: StockPulse: AI-Powered Predictions
 </p>
 <p> 
 Aim: To predict stock prices according to real-time data values fetched from API.
