@@ -77,34 +77,6 @@ Aim: To predict stock prices according to real-time data values fetched from API
   python manage.py runserver
 ```
 
-
-## Output Screen-shots:
-Home page displaying real-time data of stock prices
-
-![Screenshot (342)](https://github.com/vishal815/-Stock-market-Prediction-with-Machine-Learning-Django/assets/83393190/754e23b7-1d8b-47df-92c2-50d8abdb0f5b)
-
-![Screenshot (343)](https://github.com/vishal815/-Stock-market-Prediction-with-Machine-Learning-Django/assets/83393190/a76afff4-c812-4db1-8e1d-64097a1cd178)
-
-
-Prediction page where users enter valid ticker value and number of days
-![Screenshot (345)](https://github.com/vishal815/-Stock-market-Prediction-with-Machine-Learning-Django/assets/83393190/b1c4e87c-9d94-4da9-986f-e471f7129d4f)
-
-Prediction page displaying predicted stock price, ticker details, and QR Code.
-![Screenshot (346)](https://github.com/vishal815/-Stock-market-Prediction-with-Machine-Learning-Django/assets/83393190/6814ac70-6079-4d8b-aef8-3c2959a82a1d)
-
-
- Left graph shows real-time stock price for past day, right graph shows predicted stock price for specified days
- ![Screenshot (347)](https://github.com/vishal815/-Stock-market-Prediction-with-Machine-Learning-Django/assets/83393190/bdfb6e97-7fca-45e5-afc0-42c861305f9a)
-
-
-Ticker Info page displaying details of valid tickers
-![Screenshot (348)](https://github.com/vishal815/-Stock-market-Prediction-with-Machine-Learning-Django/assets/83393190/faa1429f-81a3-4988-8638-c3b5d28bca9c)
-
-Overview of code section
-
-![Screenshot (349)](https://github.com/vishal815/-Stock-market-Prediction-with-Machine-Learning-Django/assets/83393190/e490bab6-e758-4cef-a09c-4c2eb99a773a)
-![Screenshot (350)](https://github.com/vishal815/-Stock-market-Prediction-with-Machine-Learning-Django/assets/83393190/a45cf9c2-6a48-4e02-aab1-d04ff53ac5d2)
-
 ## Conclusion:
 Our Stock Price Prediction with Machine Learning website, utilizing linear regression and Django, enables users to predict stock prices based on real-time data.
 With easy-to-use interfaces and insightful graphs, users can make informed investment decisions.
