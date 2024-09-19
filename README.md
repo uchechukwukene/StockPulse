@@ -80,10 +80,6 @@ Aim: To predict stock prices according to real-time data values fetched from API
 ## Conclusion:
 This platform empowers users to predict stock prices with real-time data by utilizing machine learning algorithms, all through an intuitive and accessible web interface. With comprehensive visualizations and accurate forecasting, users can better navigate investment decisions.
 
-## Report PDF  of Project.
-[Final Report.pdf](https://github.com/vishal815/-Stock-market-Prediction-with-Machine-Learning-Django/files/11960207/Final.Report.KUKBIT.pdf)
 
-
-
-## Thank you!
+## Thank you😎
 
