@@ -3,8 +3,7 @@
 
 
 ## Introduction
-<p> Welcome to the Stock Price Prediction platform! This web application uses machine learning, specifically linear regression, to provide real-time data on stock prices. The home page displays the current stock prices, while the prediction page allows users to input a valid ticker symbol and select the number of days for forecasting. After submission, the predicted stock price and additional ticker details are shown. 
-   A unique QR code is generated for quick access to your prediction results. Two graphs are also provided: the left graph shows the real-time stock price of the selected ticker for the past day, and the right graph presents the forecast for the chosen time frame. Furthermore, a Ticker Info page offers detailed information about all valid tickers accepted by the app. </p>
+<p> Welcome to the Stock Price Prediction platform! This web application uses machine learning, specifically linear regression, to provide real-time data on stock prices. </p>
 
 ## Aim
 <p>
